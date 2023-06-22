@@ -1,4 +1,4 @@
-# aiogram
+# Aiogram
 This repository is about my project of my aiogram telegram bot
 
-# Now there is no my project files but soon I will add them to this repository
+# This project was created just for education and only for education this moment. Soon I will make a good project
